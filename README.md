@@ -32,10 +32,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=cleytonmolina&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" alt="GitHub Stats">
 </p>
 
-<h2 align="center">Minhas Contribuições</h2>
+<h2 align="center">📊 Minhas Estatísticas no GitHub</h2>
 
 <p align="center">
-  <a href="https://github.com/cleytonmolina/dio-lab-open-source">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cleytonmolina&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" alt="Repo Card" width="335" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=cleytonmolina&show_icons=true&theme=dark" alt="GitHub Stats" />
 </p>
+
